@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CG-M2-B18-Thread.iml" filepath="$PROJECT_DIR$/CG-M2-B18-Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoThread/DemoThread.iml" filepath="$PROJECT_DIR$/DemoThread/DemoThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH1-ThreadWithRunnable/TH1-ThreadWithRunnable.iml" filepath="$PROJECT_DIR$/TH1-ThreadWithRunnable/TH1-ThreadWithRunnable.iml" />
     </modules>
   </component>
 </project>
